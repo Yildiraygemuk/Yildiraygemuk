@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Minimal APIs in .NET](https://medium.com/@yildiraygemuk/minimal-apis-in-net-c8e4ac5e17e7?source=rss-97779c53ec24------2)
 - [What is OData?](https://medium.com/@yildiraygemuk/what-is-odata-219ae50fc28e?source=rss-97779c53ec24------2)
 - [What is SQL Injection, How to Prevent it?](https://medium.com/@yildiraygemuk/what-is-sql-injection-how-to-prevent-it-4fcbaf2a85f2?source=rss-97779c53ec24------2)
 - [Working with the Fetch API](https://medium.com/@yildiraygemuk/working-with-the-fetch-api-5aaaad20a151?source=rss-97779c53ec24------2)
-- [What is Method Idempotence?](https://medium.com/@yildiraygemuk/what-is-method-idempotence-cfedf2c0194d?source=rss-97779c53ec24------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
